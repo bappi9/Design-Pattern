@@ -1,4 +1,6 @@
-# The Design Pattern
+# Design Pattern
+An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. The architectural patterns address various issues in software engineering, such as computer hardware performance limitations, high availability and minimization of a business risk.
+
 
 Design pattern is a documented best practice of a solution that has been applied 
 successfully to solve a problem that recurs a specific set of situations.
